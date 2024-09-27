@@ -6,7 +6,7 @@ git clone https://github.com/Uthifirus/Kerja_Praktik.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/Uthifirus/Kerja_Praktik.zip)
+[Link](https://codeload.github.com/Uthifirus/Kerja_Praktik/zip/refs/heads/main)
 
 ### Setup Aplikasi
 Jalankan perintah 
