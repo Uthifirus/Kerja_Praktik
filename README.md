@@ -2,7 +2,7 @@
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
+git clone https://github.com/Uthifirus/Kerja_Praktik.git
 ```
 
 ### Download ZIP
