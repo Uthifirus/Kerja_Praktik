@@ -6,7 +6,7 @@ git clone https://github.com/Uthifirus/Kerja_Praktik.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+[Link](https://github.com/Uthifirus/Kerja_Praktik.zip)
 
 ### Setup Aplikasi
 Jalankan perintah 
